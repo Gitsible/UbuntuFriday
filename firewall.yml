@@ -1,0 +1,5 @@
+---
+#place in host_vars folder
+ip_address: "24.36.244.100"
+username: "admin"
+password: "R05ewater!"
